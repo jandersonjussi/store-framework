@@ -3,7 +3,7 @@
     "blocks": [
       "rich-text"
     ]
-  }, 
+  },
   "rich-text": {
     "props": {
       "text": "**Hello, World!**",
